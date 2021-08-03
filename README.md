@@ -16,7 +16,7 @@ I'm a 24 years old front-end developer from Brazil 🇧🇷
  
  ## 
  
-### I'm currently learning:
+### Current level:
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Maryna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,7 +27,7 @@ I'm a 24 years old front-end developer from Brazil 🇧🇷
   
  ##
  
-### I want to learn:
+### Next level:
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Maryna-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
