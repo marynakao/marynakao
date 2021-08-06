@@ -4,7 +4,6 @@ I'm a 24 years old front-end developer from Brazil 🇧🇷
 
  - 📚 Studying web development on my own
  - 👩‍🎓 Bachelor in Law (Class of 2021)
- - 💡 I love reading and learning new things
  - 😄 Pronouns: she/her
 
 ### Analytics:
