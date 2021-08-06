@@ -1,10 +1,7 @@
 ## Hello! I'm Maryna 👋
 
-I'm a 24 years old front-end developer from Brazil 🇧🇷
-
  - 📚 Studying web development on my own
- - 👩‍🎓 Bachelor in Law (Class of 2021)
- - 😄 Pronouns: she/her
+ - 👩‍💻 Focusing on Front-end
 
 ### Analytics:
 <div>
