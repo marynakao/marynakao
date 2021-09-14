@@ -2,6 +2,13 @@
 
  - 📚 Studying web development on my own
  - 👩‍💻 Focusing on Front-end
+ 
+ <br>
+ <div>
+    <a href="https://www.linkedin.com/in/maryna-kao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:maryna.kao@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/marynakao_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 ### Analytics:
 <div>
@@ -10,8 +17,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marynakao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- ## 
- 
+
+ <!--
 ### Current level:
  
 <div style="display: inline_block"><br>
@@ -22,7 +29,7 @@
 </div>
   
  ##
- 
+
 ### Next level:
 
 <div style="display: inline_block"><br>
@@ -34,11 +41,4 @@
 </div>
  
  ##
-  
-  ### Find me:
- 
-<div>
-    <a href="https://www.linkedin.com/in/maryna-kao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:maryna.kao@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/marynakao_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+--> 
